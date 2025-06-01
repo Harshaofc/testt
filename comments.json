@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1717212345678",
+    "name": "Nimal",
+    "number": "94711234567",
+    "comment": "මෙහෙම සුපිරි comment system එකක් දැක්කෙ නෑ! 😍",
+    "likes": 2,
+    "dislikes": 0,
+    "session": "b123-fake-session-id",
+    "replies": [
+      {
+        "id": "1717212349999",
+        "name": "Kamal",
+        "number": "94775544332",
+        "comment": "හරිම ඇත්තයි! 🔥",
+        "session": "c999-another-session-id",
+        "replies": []
+      },
+      {
+        "id": "1717212350000",
+        "name": "Sunil",
+        "number": "94777888999",
+        "comment": "ඇත්තටම ලස්සනයි ❤️",
+        "session": "s555-different-session",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "1717212351234",
+    "name": "Amaya",
+    "number": "94768889900",
+    "comment": "Great project! 😎",
+    "likes": 1,
+    "dislikes": 1,
+    "session": "a111-session-id",
+    "replies": []
+  }
+]
