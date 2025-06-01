@@ -34,7 +34,16 @@
     "likes": 1,
     "dislikes": 1,
     "session": "a111-session-id",
-    "replies": []
+    "replies": [
+      {
+        "id": "1748781692537",
+        "name": "Nimal",
+        "number": "G66",
+        "comment": "Gg",
+        "session": "d2d0dca9-cedc-478a-9bc4-77e7867aec85",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "1748781116352",
