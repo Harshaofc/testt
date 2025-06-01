@@ -35,5 +35,14 @@
     "dislikes": 1,
     "session": "a111-session-id",
     "replies": []
+  },
+  {
+    "id": "1748781116352",
+    "author": "Hi",
+    "text": "Mk",
+    "session": null,
+    "likes": 0,
+    "dislikes": 0,
+    "replies": []
   }
 ]
