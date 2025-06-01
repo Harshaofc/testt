@@ -43,6 +43,14 @@
     "session": null,
     "likes": 8,
     "dislikes": 1,
-    "replies": []
+    "replies": [
+      {
+        "id": "1748781177450",
+        "author": "Kk",
+        "text": "Kk",
+        "session": null,
+        "replies": []
+      }
+    ]
   }
 ]
