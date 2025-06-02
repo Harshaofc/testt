@@ -1,0 +1,14 @@
+{
+  "key": {
+    "remoteJid": "94789958225@s.whatsapp.net",
+    "fromMe": true,
+    "id": "DannTeam-5E981F582DF0"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "┌─── *🔐 OTP VERIFICATION* ───┐\n\nYour OTP for config update is: *284876*\nThis OTP will expire in 5 minutes.\n\n└─── *FREE-BOT Bot* ───┘"
+    }
+  },
+  "messageTimestamp": "1748868960",
+  "status": "PENDING"
+}
