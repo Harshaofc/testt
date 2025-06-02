@@ -1,0 +1,31 @@
+{
+  "key": {
+    "remoteJid": "94772387229@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AF9EA9B0188A166AA7F"
+  },
+  "messageTimestamp": 1748873909,
+  "pushName": "Sujani Damayanthi",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "මොකාක්",
+      "contextInfo": {
+        "stanzaId": "713B8E3DCB140A8822F19A16386DF608",
+        "participant": "94760438276@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ko oyage account eke photos ekak danna"
+        }
+      }
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748873359",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1737979989"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "lOErWLBu8/nb8JpuEXuUUgbq+rysC7KDwyVFssd673Y="
+    }
+  }
+}
