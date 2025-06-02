@@ -1,0 +1,79 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "ODdqJkn+QAeZYEN6TLKlZGetBaKLTBLhCr+h4QCWUH8="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "fW7W2EqEgggmxz8JgpIhyVbMlg+fSmuQ55xHbph7nV8="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "QOHhR0SJ1mEP2rLNl1Q5SyykJIZ5vUpB8txMVGIFUXE="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "GI6lVnA1KZF0hoNRZK3JFuykpPf5QKZkm2j/kQHrgxU="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "wGqdjV6cq6pqEFFySVKn+kutgcO92T/ElsA/+qRV514="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "TfxWiBs1+i5x+qKWBeUUcJQJGrM8ncMXiY2E+yyATGw="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "kECX2eFA17gmPPnfUpt4NiAuCy+KseD1XH+1/oB61U0="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "7QFfJHNIyB7YJ2jiuw+uO0lrcr7tAHnca1FTcq1WyAg="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "7bBiql7ScrrfkXxyL16x5XDcukOVRd6YuH3yAVqdZCKuufkxLBZhZfWueUtfXWArRP6EBq3nbajkXrAJFRt/DA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 7,
+  "advSecretKey": "CZT3faR7nNSZfcTqF3stw2inG2FaTSFcw1aVAWEOr9c=",
+  "processedHistoryMessages": [],
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "deviceId": "eZmHxAwxRomyFrS07Vl29A",
+  "phoneId": "ab6ed82f-7974-46ac-be84-bc95ab5e0405",
+  "identityId": {
+    "type": "Buffer",
+    "data": "eTtTofsQ44vN+o6PajfwG6+T72s="
+  },
+  "registered": true,
+  "backupToken": {
+    "type": "Buffer",
+    "data": "K7Hm0+SJaepL3YukpSW2tPXUVpY="
+  },
+  "registration": {},
+  "pairingCode": "9VAYLHX5",
+  "me": {
+    "id": "94715213669:25@s.whatsapp.net",
+    "lid": "151415381078112:25@lid"
+  },
+  "account": {
+    "details": "CPXc2JcDEOGv88EGGAEgACgA",
+    "accountSignatureKey": "8OrdRK2A11QfdEt9EW2oi4rh+jI+eYfCweFQTPB9BAQ=",
+    "accountSignature": "zbsw4v9tTliHFFzipxfAv/2QBy4jUSof4IMFj3HMT1nm9pMLZ4IwsPeSx9E0Yt8vNohxLraSb/oPV+fYQnMGCQ==",
+   
