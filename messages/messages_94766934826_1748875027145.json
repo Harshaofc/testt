@@ -1,0 +1,34 @@
+{
+  "key": {
+    "remoteJid": "94766934826@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A1F76C8086ECCCE0CFC2561763049BFA"
+  },
+  "messageTimestamp": 1748875021,
+  "pushName": "Dulaa.D",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Kwud dn kata karawi dn  kata karawi kiyl bln htpu kella",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A48E29B1FAD58B91A20",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "මොනා කරන්නද 😊"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "Z/lYiU/w1NCvJQ==",
+        "senderTimestamp": "1748790542",
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "ZbN9vOguCsaH/r9msewxkE+0OO7I4OYD012ie2zdIbM="
+    }
+  }
+}
