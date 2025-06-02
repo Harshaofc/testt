@@ -1,0 +1,32 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2CDCF05F070D46E2B369F521B50E966F"
+  },
+  "messageTimestamp": 1748874474,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "නැ තාම",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3AD1650A40A7DEDAF1F3",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Kawd oyh"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "D3cQ/8cv3HVUkhm3atln2fEzTcxiofbMdlUodhqW95g="
+    }
+  }
+}
