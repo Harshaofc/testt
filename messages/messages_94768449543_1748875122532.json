@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": false,
+    "id": "130A8D6404BD39117D52CC8A301C9BB8"
+  },
+  "messageTimestamp": 1748875116,
+  "pushName": "Sasangika",
+  "broadcast": false,
+  "message": {
+    "conversation": "Ow",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "xvkxxQ40P4eJz2QhFNUxGmJIqxMX8cdC91HE6FshOaI="
+    }
+  }
+}
