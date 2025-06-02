@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": false,
+    "id": "81404618A9FBEB8813300346160355F1"
+  },
+  "messageTimestamp": 1748875054,
+  "pushName": "Sasangika",
+  "broadcast": false,
+  "message": {
+    "conversation": "e ban 😒",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "FEyhHLnT4R/COMhkFK9n7EWGHHUqS/OXk3/dpU7GzEI="
+    }
+  }
+}
