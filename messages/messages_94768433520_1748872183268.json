@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94768433520@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4263C326E81298B9DD9149608A7C8DB3"
+  },
+  "messageTimestamp": 1748872183,
+  "pushName": "SHAN ( FX )",
+  "broadcast": false,
+  "message": {
+    "conversation": "*උඩ ලින්ක් එක ස්ටේටස් දලා ඔයාගෙ එකත් එවන්න දාලා දෙන්නම්*🌝💛",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "7j6MLOMGOjrD+Q==",
+        "senderTimestamp": "1748773312",
+        "recipientKeyHash": "Rjf4jC1erAxDeA==",
+        "recipientTimestamp": "1748871919"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "wwBdk1pijo953sFMjPy53WjJXQ2O/hh5/Kih3QvIh70="
+    }
+  },
+  "verifiedBizName": "SHAN ( FX )"
+}
