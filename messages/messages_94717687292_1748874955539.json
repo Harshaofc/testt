@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "F27E9AC3C43094DD456DD906E09D4690"
+  },
+  "messageTimestamp": 1748874950,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "conversation": "Matam nidi mathayi appa 😪🥵",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "txc3+zvjec/VGTvEkWEd6tvsiHm5ja9T1ib7hG/wAyQ="
+    }
+  },
+  "status": 4
+}
