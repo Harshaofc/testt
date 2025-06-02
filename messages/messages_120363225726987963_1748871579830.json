@@ -1,0 +1,18 @@
+{
+  "key": {
+    "remoteJid": "120363225726987963@g.us",
+    "fromMe": false,
+    "id": "3EB0D63ECDEA1D266C5B38",
+    "participant": "254715767637@s.whatsapp.net"
+  },
+  "messageTimestamp": 1748871569,
+  "pushName": "254715767637",
+  "broadcast": false,
+  "message": {
+    "conversation": "Message not found in store",
+    "senderKeyDistributionMessage": {
+      "groupId": "120363225726987963@g.us",
+      "axolotlSenderKeyDistributionMessage": "Mwj208XnBxCLARog/EYeKIk8+sRMC2dZ8CRHW9Kz/B0FhmDjlLU/zXj+C7kiIQUlCEUkt0GJMxt1z18Amlhek3JY7HVzbmBgTnNvKdlKJQ=="
+    }
+  }
+}
