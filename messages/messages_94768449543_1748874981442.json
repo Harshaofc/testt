@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": false,
+    "id": "54579EF50231AE124FDAADAB5F595749"
+  },
+  "messageTimestamp": 1748874976,
+  "pushName": "Sasangika",
+  "broadcast": false,
+  "message": {
+    "conversation": "Ehenam kamak na ban 😊",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "J6//4yZkf6KCDDYo1PTsPALOMsRpIqBEFrPqZbICSnA="
+    }
+  }
+}
