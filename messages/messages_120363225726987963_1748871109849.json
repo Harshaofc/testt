@@ -1,0 +1,34 @@
+{
+  "key": {
+    "remoteJid": "120363225726987963@g.us",
+    "fromMe": false,
+    "id": "FFB96BFF43B6A89668CE99064FD6A790",
+    "participant": "254708911515@s.whatsapp.net"
+  },
+  "messageTimestamp": 1748871101,
+  "pushName": "scrapper__memes",
+  "broadcast": false,
+  "message": {
+    "senderKeyDistributionMessage": {
+      "groupId": "120363225726987963@g.us",
+      "axolotlSenderKeyDistributionMessage": "Mwj40prpAxARGiB1RO80sds0XgfXTvvxtjompLjmie0vO6YCX5DsprcDZCIhBWF2WawKSRzI1iCCh2XsHU5Jc4REHB68p/UP8PQIcJU/"
+    },
+    "extendedTextMessage": {
+      "text": "This command is restricted to the owner and sudos only.",
+      "contextInfo": {
+        "stanzaId": "EgsRHUnwAAA=",
+        "participant": "0@s.whatsapp.net",
+        "quotedMessage": {
+          "groupInviteMessage": {
+            "groupJid": "120363395198201127@g.us",
+            "inviteCode": "CypherX",
+            "groupName": "CYPHER-X Official",
+            "caption": "Powering Smart Automation"
+          }
+        },
+        "remoteJid": "120363395198201127@g.us"
+      }
+    }
+  },
+  "verifiedBizName": "scrapper__memes"
+}
