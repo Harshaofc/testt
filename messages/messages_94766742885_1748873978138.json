@@ -1,0 +1,30 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "5E078B6A171A7AE0CC7BC8C859EA3710"
+  },
+  "messageTimestamp": 1748873977,
+  "pushName": "?",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Me",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "2z1TuB9hEse42pAtaPHNwiXbMbgC/6VCutcdhvVlj64="
+    }
+  }
+}
