@@ -1,0 +1,26 @@
+{
+  "key": {
+    "remoteJid": "120363368698641793@newsletter",
+    "fromMe": false,
+    "id": "048113501DE67C06C62F320EE0B28137"
+  },
+  "messageTimestamp": 1748873724,
+  "broadcast": false,
+  "newsletterServerId": 12114,
+  "message": {
+    "extendedTextMessage": {
+      "text": "*නිදිනැති සෙට් එක සින්දු අහන්න මේ පැත්තට එන්න 🙇‍♂️🫀🕊️!!*",
+      "previewType": "NONE",
+      "contextInfo": {
+        "forwardingScore": 1,
+        "isForwarded": true,
+        "forwardedNewsletterMessageInfo": {
+          "newsletterJid": "120363403589929165@newsletter",
+          "serverMessageId": 130,
+          "newsletterName": "Boom Music__☊\""
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  }
+}
