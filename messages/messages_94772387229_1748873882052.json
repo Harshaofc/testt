@@ -1,0 +1,28 @@
+{
+  "key": {
+    "remoteJid": "94772387229@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3D849FEFC8BB574DAF5F928AEB9CFAD4"
+  },
+  "messageTimestamp": 1748873882,
+  "pushName": "?",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "protocolMessage": {
+      "key": {
+        "remoteJid": "94772387229@s.whatsapp.net",
+        "fromMe": true,
+        "id": "713B8E3DCB140A8822F19A16386DF608"
+      },
+      "type": "MESSAGE_EDIT",
+      "editedMessage": {
+        "conversation": "Ko oyage account eke photos ekak danna"
+      },
+      "timestampMs": "1748873881674"
+    },
+    "messageContextInfo": {
+      "messageSecret": "hO+xvGvI5p5RlUXi3w4ixZONLSYhF7CoP3lBxMqKqzc="
+    }
+  }
+}
