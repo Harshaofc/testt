@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94778668193@s.whatsapp.net",
+    "fromMe": true,
+    "id": "DannTeam-86A96EDA8DAB"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m235/AQNI73uMX-uDiXT0v-1Yng8WSzOWYdlzeLiIyZ_skpMsMdYkiyqB-8Oz9Zk1CRkJjTnWryt_ExiyKkjoZEzXJtkkxeDmyh18Gs4FN-S6DQ?ccb=9-4&oh=01_Q5Aa1gHye13KMKLnrnTeTRAvIA3QXUJTFYpPVAbRv38yk-f-5Q&oe=68652405&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "┌─── *⏰ RUNTIME INFO* ───┐\n\n🔹 Bot Uptime: 0h 7m 18s\n🔹 Active Sessions: 3\n🔹 Your Number: 94778668193\n\n└─── *FREE-BOT Bot* ───┘",
+      "fileSha256": "+Jln3I9bKJPlvhZdNXBSwXMTbTBmk07v6xHjKe9jV9M=",
+      "fileLength": "1555926",
+      "mediaKey": "COK1IbDcwImUkmG4fKVQlJCprMSGhljOUWnrfEbs5A4=",
+      "fileEncSha256": "cwd1MfwplAfoznFujUr3iPcl6f+slS+AYOtVdmxtyjI=",
+      "directPath": "/o1/v/t24/f2/m235/AQNI73uMX-uDiXT0v-1Yng8WSzOWYdlzeLiIyZ_skpMsMdYkiyqB-8Oz9Zk1CRkJjTnWryt_ExiyKkjoZEzXJtkkxeDmyh18Gs4FN-S6DQ?ccb=9-4&oh=01_Q5Aa1gHye13KMKLnrnTeTRAvIA3QXUJTFYpPVAbRv38yk-f-5Q&oe=68652405&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1748873859"
+    }
+  },
+  "messageTimestamp": "1748873859",
+  "status": "PENDING"
+}
