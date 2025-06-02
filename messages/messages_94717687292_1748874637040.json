@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A38AC183558E7495431"
+  },
+  "messageTimestamp": 1748874631,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 4,
+  "message": {
+    "extendedTextMessage": {
+      "text": "එක ඔටො වැටෙන්නෙ",
+      "contextInfo": {
+        "stanzaId": "A9616CBDD7EDCABAD7E2D7CEB6D59676",
+        "participant": "94717687292@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "මොකද්ද recording ekak mokdda dnan haduve"
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
