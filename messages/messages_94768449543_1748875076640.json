@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": false,
+    "id": "EF92E76B8E3DA88FC4D12D7EE454AD41"
+  },
+  "messageTimestamp": 1748875073,
+  "pushName": "Sasangika",
+  "broadcast": false,
+  "message": {
+    "conversation": "Ai mata uba voice mg danna hadanawa wage penne",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "iQQSt3ZLBXDtEdB8/OV8FwcEzOxBmEsUEPtbUZfrXCM="
+    }
+  }
+}
