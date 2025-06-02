@@ -1,0 +1,17 @@
+{
+  "key": {
+    "remoteJid": "94755902597@s.whatsapp.net",
+    "fromMe": true,
+    "id": "C8C6934643CAA40E3DDB19A4A0AB5145"
+  },
+  "messageTimestamp": 1748874052,
+  "pushName": "sithu",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "Sithupa",
+    "messageContextInfo": {
+      "messageSecret": "WUw7gmiNjWvyuMGLm5HdYrS/QVzqWGx62KkvOLa9+7Y="
+    }
+  }
+}
