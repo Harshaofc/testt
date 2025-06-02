@@ -1,0 +1,37 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "D401D6F0F5CF24D4DC08077DAF4ECA02"
+  },
+  "messageTimestamp": 1748873703,
+  "pushName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": ". ping",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "BIBn3mvFb2a3Tg==",
+        "senderTimestamp": "1748760421",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1748873618"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "Fr37Tb5DYXLz8iQyHGJSUJzdCyYFRAufz7wolb/Hrfk="
+    }
+  },
+  "verifiedBizName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ"
+}
