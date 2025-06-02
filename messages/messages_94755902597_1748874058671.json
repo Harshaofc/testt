@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94755902597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A033166464B556CE3B3FB90DD3B2026C"
+  },
+  "messageTimestamp": 1748874058,
+  "pushName": "Dᴏʀᴀ ᴢᴇʀ",
+  "broadcast": false,
+  "message": {
+    "conversation": "සෙව්",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748799670",
+        "recipientKeyHash": "iVhyIyro2nyykQ==",
+        "recipientTimestamp": "1748873926"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "OtZqhdk4I4Nf+3N+S3PKC67BX18JS2OG3UrixotkZqE="
+    }
+  }
+}
