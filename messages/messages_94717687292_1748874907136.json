@@ -1,0 +1,29 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A3D0B8644FAF065108A"
+  },
+  "messageTimestamp": 1748874906,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 4,
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/24246044_621086297684547_7437095284589404579_n.enc?ccb=11-4&oh=01_Q5Aa1gHGrb-VTjKm0SqSeQ_1HU3ADLEBmfFkvLddN18KlS7hsA&oe=6865172D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "LMNlMlqsgNylsvTrj6BPpmjo+UV3wvKoU0cMDyXTreQ=",
+      "fileEncSha256": "hsjyj/JoXVlGwfLfFjSZfQaLREC8gbiy2ZPWiBqpJxg=",
+      "mediaKey": "3r77S0afDArO/wK97Dvr5SdV0yYGTPwtlHdlqXE59EU=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/24246044_621086297684547_7437095284589404579_n.enc?ccb=11-4&oh=01_Q5Aa1gHGrb-VTjKm0SqSeQ_1HU3ADLEBmfFkvLddN18KlS7hsA&oe=6865172D&_nc_sid=5e03e0",
+      "fileLength": "62926",
+      "mediaKeyTimestamp": "1748874904",
+      "isAnimated": false,
+      "stickerSentTs": "1748874904451",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
