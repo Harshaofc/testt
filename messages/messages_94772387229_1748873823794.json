@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94772387229@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AEDCD9D80EF6DE9350A"
+  },
+  "messageTimestamp": 1748873823,
+  "pushName": "Sujani Damayanthi",
+  "broadcast": false,
+  "message": {
+    "conversation": "කියන්න මොකද? කියන්න ගියේ",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748873359",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1737979989"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "AN2S21nSCtEzRvChoJQ0MNSJ6O9Qc7CJ1KjmMMJa4Rg="
+    }
+  }
+}
