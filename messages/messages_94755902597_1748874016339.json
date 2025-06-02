@@ -1,0 +1,23 @@
+{
+  "key": {
+    "remoteJid": "94755902597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4635122EFE4E979594FE8D52D2E09148"
+  },
+  "messageTimestamp": 1748874016,
+  "pushName": "Dᴏʀᴀ ᴢᴇʀ",
+  "broadcast": false,
+  "message": {
+    "conversation": "ඔයාගෙ නමෙ ගම කියන්න",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748799670",
+        "recipientKeyHash": "iVhyIyro2nyykQ==",
+        "recipientTimestamp": "1748873926"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "smpgQ2UnUNbcD9hWOnCTG8aUKzr6znbEKPEa2nKqLeg="
+    }
+  },
+  "verifiedBizName": "Dᴏʀᴀ ᴢᴇʀ"
+}
