@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A199A7BD4E900FBC527"
+  },
+  "messageTimestamp": 1748874571,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 4,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Nh",
+      "contextInfo": {
+        "stanzaId": "ED52CFAE489A807E2003A07FE94CBE73",
+        "participant": "94717687292@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ඔයා දැන් ගේම් ගහන්න ද හදන්නේ"
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
