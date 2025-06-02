@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94778668193@s.whatsapp.net",
+    "fromMe": true,
+    "id": "DannTeam-6118DBFFF1A8"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m231/AQPa3HYLSG2IgmoswjAN0jWn81ljtuZMYuTBysgluo1NVSDVpUpOfXWOuAEj0OtBPDJ71hRX-VciGiaSzfrwU4RZbTqVCGQMWrfc0Q9XIQ?ccb=9-4&oh=01_Q5Aa1gELNS0_PG-4ZZboMOwvwBX6_vALMmAmU9Ctmr6i_zHgcg&oe=68653840&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "┌─── *🎉 WELCOME TO FREE-BOT* ───┐\n\n✅ Successfully connected!\n\n🔹 Your Number: 94778668193\n🔹 Group: Failed to join group: No group ID in response\n🔹 Newsletter: Followed\n\n📋 Available Commands:\n.ping - Check bot status\n.status - Show status settings\n.runtime - Show bot runtime\n.deleteme - Delete your session\n\n└─── *FREE-BOT Bot* ───┘",
+      "fileSha256": "+Jln3I9bKJPlvhZdNXBSwXMTbTBmk07v6xHjKe9jV9M=",
+      "fileLength": "1555926",
+      "mediaKey": "Egli2s5FykIpAJq/c0EpgQzRF085rMC7182j1compo0=",
+      "fileEncSha256": "mYTVjznEiYZgduo4EeOmDs6jPh6n8LTBLQtU55CtFL0=",
+      "directPath": "/o1/v/t24/f2/m231/AQPa3HYLSG2IgmoswjAN0jWn81ljtuZMYuTBysgluo1NVSDVpUpOfXWOuAEj0OtBPDJ71hRX-VciGiaSzfrwU4RZbTqVCGQMWrfc0Q9XIQ?ccb=9-4&oh=01_Q5Aa1gELNS0_PG-4ZZboMOwvwBX6_vALMmAmU9Ctmr6i_zHgcg&oe=68653840&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1748873451"
+    }
+  },
+  "messageTimestamp": "1748873451",
+  "status": "PENDING"
+}
