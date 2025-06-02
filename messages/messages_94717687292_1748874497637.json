@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3AAEC6E2B1A36BB6FD36"
+  },
+  "messageTimestamp": 1748874494,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 4,
+  "message": {
+    "extendedTextMessage": {
+      "text": "කන්න හරිද 😊",
+      "contextInfo": {
+        "stanzaId": "2CDCF05F070D46E2B369F521B50E966F",
+        "participant": "94717687292@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "නැ තාම"
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
