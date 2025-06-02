@@ -1,0 +1,17 @@
+{
+  "key": {
+    "remoteJid": "94789958225@s.whatsapp.net",
+    "fromMe": true,
+    "id": "2D994522EC29974DEF9CB7362BD84BE8"
+  },
+  "messageTimestamp": 1748872154,
+  "pushName": "ASSISTANT",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "conversation": "Mk",
+    "messageContextInfo": {
+      "messageSecret": "y8oPa5LpFAR/uyt/uzxc3m4RIUcgrP9FOpa+no4CJd4="
+    }
+  }
+}
