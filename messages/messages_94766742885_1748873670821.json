@@ -1,0 +1,30 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "0D56E7A4C7B48CFAD45D7B8B9ADB777E"
+  },
+  "messageTimestamp": 1748873670,
+  "pushName": "?",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Hari bn",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "6n01wj4R0ZFjdcZ+3XOjkM7uFg9p32Q0iRMDyOIQQIM="
+    }
+  }
+}
