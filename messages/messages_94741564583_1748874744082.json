@@ -1,0 +1,54 @@
+{
+  "key": {
+    "remoteJid": "94741564583@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A561743B4A4858C82C1"
+  },
+  "messageTimestamp": 1748874743,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Thank your brother",
+      "contextInfo": {
+        "stanzaId": "B498CF2DEAA30CE445D4EFE977D94E43",
+        "participant": "94741564583@s.whatsapp.net",
+        "quotedMessage": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/11266282_1853020755478471_2885470989871784163_n.enc?ccb=11-4&oh=01_Q5Aa1gHPZGPfi6zkgr4et-FrEwFJG6R7RumE12cMpnzPVxJ4Xg&oe=686542A1&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "EXjk9aNSMgDF5Qlmh1sdOegBc/tBn1NhzNHUxY4cK0k=",
+            "fileLength": "6574916",
+            "seconds": 80,
+            "mediaKey": "mDAUn090zEuQIM5VoJKCcgUSZy0oavgVeftqgo15vnQ=",
+            "height": 718,
+            "width": 576,
+            "fileEncSha256": "TJ3MTY3my4yDHTw+jyra/CRI7umWc2PrqpaxTPPTlQs=",
+            "directPath": "/v/t62.7161-24/11266282_1853020755478471_2885470989871784163_n.enc?ccb=11-4&oh=01_Q5Aa1gHPZGPfi6zkgr4et-FrEwFJG6R7RumE12cMpnzPVxJ4Xg&oe=686542A1&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1748776500",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAOgMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAAAAgMBBAUBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPOr518arzdMJqA8t51VZK2m+KQpDTqJO3HDbzoq5C417JZ3avnN0QsWsmMqMP0+f2xzRvEmBVcAOsIhID//xAAmEAACAgEDBAICAwAAAAAAAAABAgARAxASIQQxMkETYSJxQlFi/9oACAEBAAE/AFTAcWMsD/qDH0fPl9R8SAcCMorgTeqittz5O3AjMD20fwEwi1BjE13jduJtBEIqVo/gJhNJMpiNTG5StRjpYWONp04YC4pA4jun7gPMQmM1LfuAr/KUII541VisJJ5Ou4wtcBqYQuRqKx+mQVXsxukSuCY2BQNPcwUX5FzIKczp/Jq/qN1LFarmZGJwLR5MGViNph76Idp3CfHvRslzpfNv1Kt6+4cW1buY1U2SeYe513kY9sxsV3fYgNEGHPa1PxHuE8z/xAAZEQEAAgMAAAAAAAAAAAAAAAABABARITD/2gAIAQIBAT8AXULYF46f/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERIRAw/9oACAEDAQE/AEtHCPiKZBl9P//Z",
+            "contextInfo": {
+              "expiration": 86400,
+              "ephemeralSettingTimestamp": "1723330612",
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "CHAT_SETTING",
+                "initiatedByMe": false
+              }
+            },
+            "streamingSidecar": "jEVMhMTDMsopyYgb/jzz6ipRn4D6xKZyptdLXGDZGOLPBpgvERECJdieQ1kgIo629KLVyj12YQqHuzpJZu3p2/1sXNWQI2xKutzCnXpQ/9cfXuoBmr1g8jKk1+HVAJm9rb3RieEZUMHx2v0IDI7kiLb+R9XrmMocfRi7pXnuliAoOlaYNTxoaUQc3Kx5UztsA73BO6SUpwxTKIDRiiHC+RBZUe68Yv2JyPqfSimHr7WO+7OIBstUTPBBjkRg7mzGCMl2ffcL9z2lzK+GiN+QQttUDiXyVBMBfRj/LK7P5l73aJlbLilrXZXzZPx1apD5MXC84e6fKTLiqI/ymEKcqTXHhjBEMZk6U9fU6hVlVda/meVf5uQrF+O9usOpOn+AOKWxrQlnrsFFVhWX0AK/99RHlsocgi7MqdzCtT7l9N+KZTErWfm+zDlS16pdDsIFowiX0mGi8e9y8RnW87p0dPdASv3kFtKTiScH5mTkQHWs290xhAMoHK87NH0MqCK9dB4Cpnv6MV5PGKcwPT3W7/FLb5Hochbp95xHSbOrtvi5RNwkH6wxZluC203qdzJ35V0RAGerK+vcNxLtNFVJarnmhfnNBFowGcHgWwioPAVbEskb6pA4zxxfq3W+pzKJtUyPNkMZkokKIL8XNVgCT+FHU0bYT0Itu3fMs4l7uTiz2IhJjmGY3a8WPvLV8VgTsSntyTgTSWkueTar8mFkuNzWyXKNoCQh7MxlyN0I/deuTWzgvCYDT3X+gGwZbV/t3xojPdq7gpUGiHKuj4jL/taDkPFLkLkFXHOLCOgNbvJyPJlTaDiYNsHugGSQGiBcO5AAcuVQLvwd2gMgiWpTbc9e8k+nr8CEBJPxGTvE2BcaRLFz8QfVC2SVk9W3qyDGtRaEYL0f6RRWQpwa0ZvVc2McmKE6BcO9OU45xld/Ulg25LpPlOsFRGMcEO8k8PUDKLzokUJUHw8eysY0WdmHqbXVOkgRWDjqlaqvchRjapGOajsH+fwZYIDKiQ1VwO9wi/12H7UGnP+jscLM9/46DlwDZxl6Km7guEbOG/vmcM2zsbobdu2I52e2QRCoIXGziQhf3Gz2KklBFRvB46GBVPdaG9G6i7IeEzzJYRJfceydr8ZYBzpo4mThX8yz0k4gsKMLsFLmyBgIcoy/ZKJcnclqm9m2QoXzVWddAYRyWI6uo6W9CTdilTQPG3gnu2gXT7k6NhORKQ4uHqE7/7XpjZSx55hX+AdRTneAVcyiiWXz+guXOleITcTTtDQi8P3MmRNTyyvKRvE3UooUW8NBvJuOUHLwYI256GnnJ2eNY+ngiaqL3XnrbvwEvPBNoyRgMO8="
+          }
+        },
+        "expiration": 86400,
+        "ephemeralSettingTimestamp": "1723330612",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "CHAT_SETTING",
+          "initiatedByMe": false
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
