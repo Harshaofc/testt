@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A8A0685228F5E29868F"
+  },
+  "messageTimestamp": 1748875089,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 3,
+  "message": {
+    "extendedTextMessage": {
+      "text": "දැනුත් පෙනව",
+      "contextInfo": {
+        "stanzaId": "EF92E76B8E3DA88FC4D12D7EE454AD41",
+        "participant": "94768449543@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ai mata uba voice mg danna hadanawa wage penne"
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
