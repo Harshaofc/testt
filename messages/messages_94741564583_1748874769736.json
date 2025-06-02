@@ -1,0 +1,35 @@
+{
+  "key": {
+    "remoteJid": "94741564583@s.whatsapp.net",
+    "fromMe": false,
+    "id": "28CB1CF3E5320FEB90CDA37B27C78E0D"
+  },
+  "messageTimestamp": 1748874751,
+  "pushName": "D a h a m 🤧🤍",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "O",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 86400,
+        "ephemeralSettingTimestamp": "1723330612",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748801544",
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "fmSRFjHx/pI/DUi22kO75rByxcZILwqcn3PQN1AzHXE="
+    }
+  }
+}
