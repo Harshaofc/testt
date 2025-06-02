@@ -1,0 +1,49 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "98D21364B9EB305CC78CB912866EFA25"
+  },
+  "messageTimestamp": 1748874421,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/13726150_2589664537906082_7098031578387200212_n.enc?ccb=11-4&oh=01_Q5Aa1gFygcwhQHF2E66Te4mXYJXcuduHS0Ua7hjT7cZBi-PPqg&oe=68653BD5&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Ved",
+      "fileSha256": "WqOTcLXJbxSAWBGlCWEPH8Pr9IL2NiuS0BNR5+q96Io=",
+      "fileLength": "70552",
+      "height": 1280,
+      "width": 720,
+      "mediaKey": "h1BhPzXIZJ2UvO2hM8HjOfRqoAYZ3dKhblIuv1UkMwo=",
+      "fileEncSha256": "AsLdj2aH2meD9W/+4jSS/4wBDn4T2kythwtw4z2hY8s=",
+      "directPath": "/v/t62.7118-24/13726150_2589664537906082_7098031578387200212_n.enc?ccb=11-4&oh=01_Q5Aa1gFygcwhQHF2E66Te4mXYJXcuduHS0Ua7hjT7cZBi-PPqg&oe=68653BD5&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1748874418",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKAMBIgACEQEDEQH/xAAtAAADAQEBAAAAAAAAAAAAAAAAAwQCAQUBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAA8XWtbF7HUkeAnamadPYZkjiI65L5DjCUNK8+mKoaNr3HAG8Z4DZ0IAK//8QAHRABAQACAwEBAQAAAAAAAAAAAQACEQMSITFBYf/aAAgBAQABPwAtF1jC6QWguxvUEkXjHDjsbVrbZdvNRi7NEYzaAuN3Yl8Ix/Z9biPYlsR17efbCxXRdBRmQULjbDMfGFx/pYo+zY5XHlqx5L+4xyfj9v/EABYRAAMAAAAAAAAAAAAAAAAAABEgMP/aAAgBAgEBPwBjH//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8Af//Z",
+      "contextInfo": {
+        "stanzaId": "3A4399C67A4C4F035D4A",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "mk cudu oya"
+        }
+      },
+      "scansSidecar": "ol4aA/EpbotH+HsYeq9OXkhMp1B7gnsiymCtejtIRJQnD/YtBLM2uw==",
+      "scanLengths": [
+        7336,
+        22226,
+        12910,
+        28080
+      ],
+      "midQualityFileSha256": "BT1Ztg6SQh5CJov6ViQVaykdGnnjGuDcPDtf9uXK0M4="
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "PFNAxChRhaqGAn9mG+0mxV24MNC+EuUqmzFvBIVtogk="
+    }
+  }
+}
