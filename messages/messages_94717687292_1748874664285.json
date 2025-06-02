@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "111CE772BC57A5AFA49F52A348824F67"
+  },
+  "messageTimestamp": 1748874664,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "conversation": "Hako",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "TGi9eKhI4P/R5Pl9MWrbvTtGKx9MhJ6w2/nBuR1DsCc="
+    }
+  }
+}
