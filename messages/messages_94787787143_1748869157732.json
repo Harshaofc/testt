@@ -1,0 +1,21 @@
+{
+  "key": {
+    "remoteJid": "94787787143@s.whatsapp.net",
+    "fromMe": false,
+    "id": "7743E27E286A94CB20D301BF4DF7C41A"
+  },
+  "messageTimestamp": 1748869157,
+  "pushName": "ASSISTANT",
+  "broadcast": false,
+  "message": {
+    "conversation": "-runtime",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "AY4dJIFrfRqqdw==",
+        "recipientTimestamp": "1748867615"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "dcULzWiL+F/U0o4l6agRjum63WXfNlcL6UbK2Z+EB6M="
+    }
+  }
+}
