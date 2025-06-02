@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94766934826@s.whatsapp.net",
+    "fromMe": false,
+    "id": "C9FCE6E080C36CCEE548C2411BC2818A"
+  },
+  "messageTimestamp": 1748875123,
+  "pushName": "Dulaa.D",
+  "broadcast": false,
+  "message": {
+    "conversation": "Ambilipitiyd",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "Z/lYiU/w1NCvJQ==",
+        "senderTimestamp": "1748790542",
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "L/5MpmYW+I9U9C2b4EUr9ixYi9yqG7im1tSu3Lmxljc="
+    }
+  },
+  "status": 4
+}
