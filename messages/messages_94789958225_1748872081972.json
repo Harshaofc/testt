@@ -1,0 +1,29 @@
+{
+  "key": {
+    "remoteJid": "94789958225@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FF319C41F3743853B6027A6ACB66D033"
+  },
+  "messageTimestamp": 1748872081,
+  "pushName": "𝗗𝗘𝗫𝗧𝗘𝗥",
+  "broadcast": false,
+  "message": {
+    "protocolMessage": {
+      "key": {
+        "remoteJid": "94787787143@s.whatsapp.net",
+        "fromMe": true,
+        "id": "4FC7D9692F0E94A447BEE4D0BB6E638B"
+      },
+      "type": "REVOKE"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "AY4dJIFrfRqqdw==",
+        "senderTimestamp": "1748867615",
+        "recipientKeyHash": "Rjf4jC1erAxDeA==",
+        "recipientTimestamp": "1748871919"
+      },
+      "deviceListMetadataVersion": 2
+    }
+  }
+}
