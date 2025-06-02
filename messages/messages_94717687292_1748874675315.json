@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3AF19E4763E73C28CEDC"
+  },
+  "messageTimestamp": 1748874675,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Hm itim",
+      "contextInfo": {
+        "stanzaId": "C2F46F4A3E0238D980FB46AD321555B8",
+        "participant": "94717687292@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Hko"
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
