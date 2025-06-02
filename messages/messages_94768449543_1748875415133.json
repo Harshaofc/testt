@@ -1,0 +1,45 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A402628C3AA0137C017"
+  },
+  "messageTimestamp": 1748875404,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Oto bn e oto 😅",
+      "contextInfo": {
+        "stanzaId": "B12CBF1F3706F7D3686E19CB05292BB9",
+        "participant": "94768449543@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/13788342_1144332907382029_7531296766353343714_n.enc?ccb=11-4&oh=01_Q5Aa1gFrvtJnUAU-bcaD4yH1AHFa9PKng8iT88qvYdhGm49pCA&oe=68652B7D&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Balapan",
+            "fileSha256": "aL4d0fN/zsmjhAUkrCC9oPIqKUUCUrrqaFbJ2RHKoOU=",
+            "fileLength": "68228",
+            "height": 1280,
+            "width": 576,
+            "mediaKey": "+WD+Vu8kWiq0//bFAN0EkZoZsCoy7AniZHn8w3zT954=",
+            "fileEncSha256": "qGcD+17u0iZmA0IHDR1L7KAiIHQ8LcCkNkPkhuVs/mQ=",
+            "directPath": "/v/t62.7118-24/13788342_1144332907382029_7531296766353343714_n.enc?ccb=11-4&oh=01_Q5Aa1gFrvtJnUAU-bcaD4yH1AHFa9PKng8iT88qvYdhGm49pCA&oe=68652B7D&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1748875150",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAAuAAACAwEBAAAAAAAAAAAAAAAABQEDBAIGAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAHduXNI0hZytUs79Euf0SK1jco6zhkmvx3a4JYgkKuAmiQP/xAAnEAABBAECBQQDAAAAAAAAAAABAAIDESEEBRITMUFREDNDUjJCcf/aAAgBAQABPwA8wv8AxwrkTi/FIcV9EzWMIyn62SzQFJuvlPYI6/UfUJkUn1sEI6Z5/QoaaRnRhU5MYo2CofbZ/FTfKpvlbl7oCgcXQscD2QkCe91GlM90jieEkjumboxgA5SG8sHwo7yw/CpNwDySGUhSwsLHpjyseVijZQnXNBPRGYWjMF//xAAcEQEAAgEFAAAAAAAAAAAAAAABABExAgMQIIH/2gAIAQIBAT8AnjDVRgjuNYOC8L1//8QAHhEAAgEDBQAAAAAAAAAAAAAAAAECERIhAyAxYoH/2gAIAQMBAT8Avii7qyNEuES1Go0wL0w1Tb//2Q==",
+            "scansSidecar": "AHaK078QhR2au2tPp/pK2g59SnOUhGKLygMMjX8dVMyOUYBROnSqow==",
+            "scanLengths": [
+              6659,
+              33365,
+              12164,
+              16040
+            ],
+            "midQualityFileSha256": "NL09c81FjFjMgdX64BKeQCi1dQNMPoAW6Ga1r+vemtY="
+          }
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
