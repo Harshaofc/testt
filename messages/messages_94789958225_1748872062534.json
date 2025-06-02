@@ -1,0 +1,23 @@
+{
+  "key": {
+    "remoteJid": "94789958225@s.whatsapp.net",
+    "fromMe": false,
+    "id": "9ED704BA25CE468FB5BEC50B853A1483"
+  },
+  "messageTimestamp": 1748872062,
+  "pushName": "𝗗𝗘𝗫𝗧𝗘𝗥",
+  "broadcast": false,
+  "message": {
+    "conversation": "K",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "AY4dJIFrfRqqdw==",
+        "senderTimestamp": "1748867615",
+        "recipientKeyHash": "Rjf4jC1erAxDeA==",
+        "recipientTimestamp": "1748871919"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "9asgN2kvam1l+lWMNPhlcr3CwGFROyjOg5OWXZK6Azg="
+    }
+  }
+}
