@@ -1,0 +1,26 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB029195541E5F21AF226"
+  },
+  "messageTimestamp": 1748873706,
+  "pushName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ",
+  "broadcast": false,
+  "message": {
+    "protocolMessage": {
+      "key": {
+        "remoteJid": "94760438276@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0B0BFBD5AE08A8886B2"
+      },
+      "type": "MESSAGE_EDIT",
+      "editedMessage": {
+        "extendedTextMessage": {
+          "text": "⚡ *Ping:323 ms* "
+        }
+      },
+      "timestampMs": "1748873706062"
+    }
+  }
+}
