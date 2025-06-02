@@ -1,0 +1,24 @@
+{
+  "key": {
+    "remoteJid": "94778668193@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A43C02EB6AA004B49E9"
+  },
+  "messageTimestamp": 1748874299,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "message": {
+    "conversation": "I'Am mr Tafa",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "MHpBo2RDNe/+gg==",
+        "senderTimestamp": "1748873407",
+        "recipientKeyHash": "iVhyIyro2nyykQ==",
+        "recipientTimestamp": "1748873926"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "wT1/gP+NTxb9KbT/OAkta7gN30CYjouosKKLdP9YNBc="
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
