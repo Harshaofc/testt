@@ -1,0 +1,31 @@
+{
+  "key": {
+    "remoteJid": "94778668193@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A5DE2053BFF28D14BA9"
+  },
+  "messageTimestamp": 1748873693,
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "protocolMessage": {
+      "type": "HISTORY_SYNC_NOTIFICATION",
+      "historySyncNotification": {
+        "fileSha256": "p/sKnuTySy/cDvteKFuY5wmvEcrUgUbMam8yLDlcLMo=",
+        "fileLength": "1423473",
+        "mediaKey": "eNh7aGGw3iIe4s7B3kIZ8PQ8o3SO+Fjgr5zCil4pKA4=",
+        "fileEncSha256": "Hx63hrwoyDZcm4stvYKEFO4DOwKs9azl/hEaj5Z86JY=",
+        "directPath": "/v/t62.31111-24/20119951_1395728154880264_1728430761401966846_n.enc?ccb=11-4&oh=01_Q5Aa1gFY8Q5SLEFsS_MKTdQb0zNH1e4FG4flYULegp0VgIvoiA&oe=686529FD&_nc_sid=5e03e0",
+        "syncType": "RECENT",
+        "chunkOrder": 3
+      }
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "MHpBo2RDNe/+gg==",
+        "senderTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2
+    }
+  }
+}
