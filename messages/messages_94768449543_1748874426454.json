@@ -1,0 +1,38 @@
+{
+  "key": {
+    "remoteJid": "94768449543@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A883B42322797845A59"
+  },
+  "messageTimestamp": 1748874426,
+  "pushName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ou ou vnody😊",
+      "contextInfo": {
+        "stanzaId": "30A4331C53067960AF57C5FA8C27DF9D",
+        "participant": "94768449543@s.whatsapp.net",
+        "quotedMessage": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.15575-24/17608911_714417644380338_8158483136652255038_n.enc?ccb=11-4&oh=01_Q5Aa1gGZJJA-Cg1xRTEvGpeDb3CUlicop3hTM2RPQpK79DqZ5g&oe=6865142A&_nc_sid=5e03e0&mms3=true",
+            "fileSha256": "nNa60c5woBNP8DswrdpO9fABZ/astARnoryzrXQCQJ0=",
+            "fileEncSha256": "HSItkS8I/vDDKLVXoUfkuz7p9seIgPbJTTnW5RGtrag=",
+            "mediaKey": "6Hx+U0g2lRb+wDhTZz/s2CL/gcbecB4KdSyTnUWhAhI=",
+            "mimetype": "image/webp",
+            "directPath": "/v/t62.15575-24/17608911_714417644380338_8158483136652255038_n.enc?ccb=11-4&oh=01_Q5Aa1gGZJJA-Cg1xRTEvGpeDb3CUlicop3hTM2RPQpK79DqZ5g&oe=6865142A&_nc_sid=5e03e0",
+            "fileLength": "47076",
+            "mediaKeyTimestamp": "1748869303",
+            "isAnimated": false,
+            "stickerSentTs": "1748869303050",
+            "isAvatar": false,
+            "isAiSticker": false,
+            "isLottie": false
+          }
+        }
+      }
+    }
+  },
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂"
+}
