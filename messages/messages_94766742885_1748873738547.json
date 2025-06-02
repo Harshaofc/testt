@@ -1,0 +1,36 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "05F5FF667DB4A0A53EE1DEDE1F0F2ABB"
+  },
+  "messageTimestamp": 1748873738,
+  "pushName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Stetas seen wenna welawak yno",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "BIBn3mvFb2a3Tg==",
+        "senderTimestamp": "1748760421",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1748873618"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "tSNDfj3FDJsZ2Wb5XWUnO4hPfRIxCde2MD53qQyU56s="
+    }
+  }
+}
