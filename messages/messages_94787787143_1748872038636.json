@@ -1,0 +1,18 @@
+{
+  "key": {
+    "remoteJid": "94787787143@s.whatsapp.net",
+    "fromMe": true,
+    "id": "120C8293976BF827710C65852D0494EC"
+  },
+  "messageTimestamp": 1748871935,
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "protocolMessage": {
+      "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+      "initialSecurityNotificationSettingSync": {
+        "securityNotificationEnabled": false
+      }
+    }
+  }
+}
