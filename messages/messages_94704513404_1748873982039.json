@@ -1,0 +1,140 @@
+{
+  "key": {
+    "remoteJid": "94704513404@s.whatsapp.net",
+    "fromMe": true,
+    "id": "22A615D7088CAB5E2E90D828BB9E8A23"
+  },
+  "messageTimestamp": 1748873942,
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "protocolMessage": {
+      "type": "APP_STATE_SYNC_KEY_SHARE",
+      "appStateSyncKeyShare": {
+        "keys": [
+          {
+            "keyId": {
+              "keyId": "AAAAAIfE"
+            },
+            "keyData": {
+              "keyData": "ECHBx+N0UA0jkKMl3raKPDlKa/bciD3x4bB2pePbYpY=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 4,
+                "deviceIndexes": [
+                  0
+                ]
+              },
+              "timestamp": "1748749078463"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIfF"
+            },
+            "keyData": {
+              "keyData": "U9q+p9XkabDp0NRMKZmvf/IKcJkwLXPgsacNL/g4870=",
+              "fingerprint": {
+                "rawId": 472358423,
+                "currentIndex": 1,
+                "deviceIndexes": [
+                  0,
+                  1
+                ]
+              },
+              "timestamp": "1748831097293"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIfC"
+            },
+            "keyData": {
+              "keyData": "0jDs1tuYXMAMpSrELrkGpaqkV/7UddYVmrTwaElaBmg=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 4,
+                "deviceIndexes": [
+                  0,
+                  4
+                ]
+              },
+              "timestamp": "1745735843478"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIfD"
+            },
+            "keyData": {
+              "keyData": "le59AwUjAsV+heUz2kN9nFNPmMMSy6THxjJptUiszFY=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 4,
+                "deviceIndexes": [
+                  0,
+                  4
+                ]
+              },
+              "timestamp": "1748748627636"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIfA"
+            },
+            "keyData": {
+              "keyData": "D5jdbvCABtr+BX2SLsNQ51oIfKVjKTZyKkGfduV/lbs=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 4,
+                "deviceIndexes": [
+                  0,
+                  2,
+                  3,
+                  4
+                ]
+              },
+              "timestamp": "0"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIfB"
+            },
+            "keyData": {
+              "keyData": "Car5Gi5jJ6JG6+fdBPOR7DfhHzWF7qYo0Sjpn/CC+9M=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 4,
+                "deviceIndexes": [
+                  0,
+                  3,
+                  4
+                ]
+              },
+              "timestamp": "0"
+            }
+          },
+          {
+            "keyId": {
+              "keyId": "AAAAAIe/"
+            },
+            "keyData": {
+              "keyData": "rz7jyejaDcneg+tJW9rRjziJEqCw6mn2JPILjdRyaow=",
+              "fingerprint": {
+                "rawId": 472358422,
+                "currentIndex": 1,
+                "deviceIndexes": [
+                  0,
+                  1
+                ]
+              },
+              "timestamp": "0"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
