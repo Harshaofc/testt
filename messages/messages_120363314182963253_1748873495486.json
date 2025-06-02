@@ -1,0 +1,13 @@
+{
+  "key": {
+    "remoteJid": "120363314182963253@newsletter",
+    "fromMe": false,
+    "id": "C526F0B2842BB592755FD62E4745AA98"
+  },
+  "messageTimestamp": 1748873491,
+  "broadcast": false,
+  "newsletterServerId": 2337,
+  "message": {
+    "conversation": "https://whatsapp.com/channel/0029VarvKBzGZNCwoBdfBm0F/853"
+  }
+}
