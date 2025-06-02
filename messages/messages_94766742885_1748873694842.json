@@ -1,0 +1,37 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "D65CD7BD2E9836701D50266815958983"
+  },
+  "messageTimestamp": 1748873694,
+  "pushName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ss dpm",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "BIBn3mvFb2a3Tg==",
+        "senderTimestamp": "1748760421",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1748873618"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "oNL7WZBfWzsWB8ngOgCCQyGEU58BKRc8gJAY6/YcO60="
+    }
+  },
+  "verifiedBizName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ"
+}
