@@ -1,0 +1,23 @@
+{
+  "key": {
+    "remoteJid": "94766934826@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AE44A7429BC1423C19537C2C2CC53051"
+  },
+  "messageTimestamp": 1748875108,
+  "pushName": "Dulaa.D",
+  "broadcast": false,
+  "message": {
+    "conversation": "Kawud kawud itim",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "Z/lYiU/w1NCvJQ==",
+        "senderTimestamp": "1748790542",
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "9e3ZcFt3d1boFi+qBkQfdXRAHs3V6JsUynDEtAvIcPA="
+    }
+  }
+}
