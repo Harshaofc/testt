@@ -1,0 +1,33 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "811CBD7522A0DBED286E51D8ACE4F380"
+  },
+  "messageTimestamp": 1748874895,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Mm",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A28B0E46DF3662CD121",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Nh thama"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "+T6F2Hhlug90/Eer5cuZExZsFpsJi2K+C0Wlifj9lGw="
+    }
+  },
+  "status": 4
+}
