@@ -1,0 +1,44 @@
+{
+  "key": {
+    "remoteJid": "94778668193@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3AA03307D49B945A5471"
+  },
+  "messageTimestamp": 1748873421,
+  "broadcast": false,
+  "status": 2,
+  "verifiedBizName": "꧁==>> ᴍʀ.𝗧𝗔𝗙𝗔 <<==꧂",
+  "message": {
+    "protocolMessage": {
+      "type": "APP_STATE_SYNC_KEY_SHARE",
+      "appStateSyncKeyShare": {
+        "keys": [
+          {
+            "keyId": {
+              "keyId": "AAAAALzR"
+            },
+            "keyData": {
+              "keyData": "d61U2HJDNan5h1EUb+jFNzNoE8IPkJ3yZmy02eVwWgM=",
+              "fingerprint": {
+                "rawId": 3314743079,
+                "currentIndex": 1,
+                "deviceIndexes": [
+                  0,
+                  1
+                ]
+              },
+              "timestamp": "1748712903947"
+            }
+          }
+        ]
+      }
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "MHpBo2RDNe/+gg==",
+        "senderTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2
+    }
+  }
+}
