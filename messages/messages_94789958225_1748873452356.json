@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94789958225@s.whatsapp.net",
+    "fromMe": true,
+    "id": "DannTeam-C2CFFCD327C9"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m233/AQO-brhFxxmXitkekjN5kU1qd9BqS8dPRZRc_QbwJWrC1WSizrTnkibZNWR0vYc4C5cvhQgzZsBxId7JLTILNaTl0dqPgIop3rc_VRPvvQ?ccb=9-4&oh=01_Q5Aa1gHxAXz1_Z-3JyMd8uNS5sRAxORw2EVN9v9YnzcMrfVycg&oe=686522D3&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "┌─── *🎉 NEW CONNECTION ALERT 🎉* ───┐\n\n🔹 Number: 94778668193\n🔹 Status: Connected\n🔹 Group: Failed to join group: No group ID in response\n\n└─── *FREE-BOT Bot* ───┘",
+      "fileSha256": "+Jln3I9bKJPlvhZdNXBSwXMTbTBmk07v6xHjKe9jV9M=",
+      "fileLength": "1555926",
+      "mediaKey": "4Wn9lwdzo1lu3tq9KdDNkxeDGh0YmzmsXDd/jVqih8A=",
+      "fileEncSha256": "OOAfC7hT79WYoN4gBLvBEbZg1qaML0Fvpwl7a4ogKpE=",
+      "directPath": "/o1/v/t24/f2/m233/AQO-brhFxxmXitkekjN5kU1qd9BqS8dPRZRc_QbwJWrC1WSizrTnkibZNWR0vYc4C5cvhQgzZsBxId7JLTILNaTl0dqPgIop3rc_VRPvvQ?ccb=9-4&oh=01_Q5Aa1gHxAXz1_Z-3JyMd8uNS5sRAxORw2EVN9v9YnzcMrfVycg&oe=686522D3&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1748873452"
+    }
+  },
+  "messageTimestamp": "1748873452",
+  "status": "PENDING"
+}
