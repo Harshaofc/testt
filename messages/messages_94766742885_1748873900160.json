@@ -1,0 +1,35 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "D28DA2A7D7FED4B0E0FA48DF2D490832"
+  },
+  "messageTimestamp": 1748873900,
+  "pushName": "?",
+  "broadcast": false,
+  "status": 2,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Kochcharak wela yanawada bn",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "05F5FF667DB4A0A53EE1DEDE1F0F2ABB",
+        "participant": "94766742885@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Stetas seen wenna welawak yno"
+        },
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "WrwcC0ln6ASLE6Nk+D9OFwlW3ZwkLEonDKSSiGFd2zc="
+    }
+  }
+}
