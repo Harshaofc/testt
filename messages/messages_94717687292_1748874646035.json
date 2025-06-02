@@ -1,0 +1,33 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "C2F46F4A3E0238D980FB46AD321555B8"
+  },
+  "messageTimestamp": 1748874641,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Hko",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A38AC183558E7495431",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "එක ඔටො වැටෙන්නෙ"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "MZzq/LSxp6HReS8mMIXGeW1vkA13WSqTy9BcFaRCXUw="
+    }
+  },
+  "status": 4
+}
