@@ -1,0 +1,22 @@
+{
+  "key": {
+    "remoteJid": "94717687292@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A9616CBDD7EDCABAD7E2D7CEB6D59676"
+  },
+  "messageTimestamp": 1748874585,
+  "pushName": "Nilmini",
+  "broadcast": false,
+  "message": {
+    "conversation": "මොකද්ද recording ekak mokdda dnan haduve",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748873407"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "281o+AwuzPnr0Y8YPJE8FQS4dfcWAA73jNY0E6hz5xw="
+    }
+  },
+  "status": 4
+}
