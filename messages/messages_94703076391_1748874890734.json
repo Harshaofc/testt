@@ -1,0 +1,33 @@
+{
+  "key": {
+    "remoteJid": "94703076391@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A1F81A6505170ACB359EB3BECA7B7468"
+  },
+  "messageTimestamp": 1748874831,
+  "pushName": "𝙳𝙰𝚁𝙲𝙺ˡˡ꧁CYBₑᵣ ₗᵢₒₙ꧂",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ai bn",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3AFEAE8E2F7D75E36D02",
+        "participant": "94778668193@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "🤧"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748795116",
+        "recipientKeyHash": "MHpBo2RDNe/+gg==",
+        "recipientTimestamp": "1748712886"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "86PGorxozQWzgxnxTVs7E0bImJmOQIgLv803fQbEAtM="
+    }
+  }
+}
