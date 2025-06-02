@@ -1,0 +1,23 @@
+{
+  "key": {
+    "remoteJid": "94755902597@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4489DBC0A9EB46862E21099DC72359EF"
+  },
+  "messageTimestamp": 1748874010,
+  "pushName": "Dᴏʀᴀ ᴢᴇʀ",
+  "broadcast": false,
+  "message": {
+    "conversation": "𝙽𝙰𝙼𝙴 + 𝚁𝙴𝙰𝙻 𝙳𝙾𝚁𝙰 \n𝙵𝚁𝙾𝙼  + 𝙺𝚄𝚁𝚄𝙽𝙰𝙶𝙰𝙻𝙰\n𝙰𝙶𝙴  : 18+",
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderTimestamp": "1748799670",
+        "recipientKeyHash": "iVhyIyro2nyykQ==",
+        "recipientTimestamp": "1748873926"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "g3FH744nzur4NURwSuOGJowzNhJompeqx+BOQ8vLSPA="
+    }
+  },
+  "verifiedBizName": "Dᴏʀᴀ ᴢᴇʀ"
+}
