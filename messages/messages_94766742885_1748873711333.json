@@ -1,0 +1,36 @@
+{
+  "key": {
+    "remoteJid": "94766742885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "03339E56C1E486CFF0688582C550AE02"
+  },
+  "messageTimestamp": 1748873711,
+  "pushName": "Ｂʟ𝙰𝙲𝙺ᶻᴱᴿ |sɪᴛʜᴜ",
+  "broadcast": false,
+  "message": {
+    "extendedTextMessage": {
+      "text": "Harine bot",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1739029003",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "deviceListMetadata": {
+        "senderKeyHash": "BIBn3mvFb2a3Tg==",
+        "senderTimestamp": "1748760421",
+        "recipientKeyHash": "4DavoNDEfVxMrg==",
+        "recipientTimestamp": "1748873618"
+      },
+      "deviceListMetadataVersion": 2,
+      "messageSecret": "L4FMkPNuOa12UDc6d2ykE1HENx+UszzuUQGg+k8wQtQ="
+    }
+  }
+}
