@@ -229,6 +229,15 @@
     "session": "cdb36d56-0799-4f07-ba6d-02b0b3a54b2d",
     "likes": 1,
     "dislikes": 0,
-    "replies": []
+    "replies": [
+      {
+        "id": "1748967071486",
+        "name": "DEXTER 🔔",
+        "number": "+94789958225",
+        "comment": "O bn",
+        "session": "d2d0dca9-cedc-478a-9bc4-77e7867aec85",
+        "replies": []
+      }
+    ]
   }
 ]
